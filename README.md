@@ -20,7 +20,7 @@
 ```yaml
 xc_launch:
   git:
-    url: <本仓库地址>
+    url: git@github.com:martin-flutter-8205/xc_launch.git
     ref: main
 ```
 

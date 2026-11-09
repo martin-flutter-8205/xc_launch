@@ -1,5 +1,5 @@
 // GENERATED CODE - DO NOT MODIFY BY HAND
-// 由 `xc assets` 生成，来源 packages/xc_launch/pubspec.yaml
+// 由 `xc assets` 生成，来源 xc_launch/pubspec.yaml
 
 /// xc_launch 已声明的静态资源。
 ///
