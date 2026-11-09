@@ -1,0 +1,26 @@
+name: xc_launch
+description: 启动页业务包：启动配置 + 倒计时 + 跳过，结束后替换为主框架
+publish_to: none
+version: 0.1.0
+
+environment:
+  sdk: ^3.13.0
+  flutter: ">=3.27.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  xc_platform:
+    path: ../xc_framework/packages/xc_platform
+  xc_ui:
+    path: ../xc_framework/packages/xc_ui
+  xc_index:
+    path: ../xc_index
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  assets:
+    - assets/images/
